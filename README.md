@@ -2,8 +2,8 @@
 ```python
 print("Hi I'm Konuralp" , "I am working to become a full stack developer") 
 ```
-<img align="right" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="300" height="300" />
-<h3 align="left">Languages</h3>
+<img align="right" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="250" height="250" />
+<h4 align="left">Languages</h4>
 <p align="left"> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
@@ -28,7 +28,7 @@ print("Hi I'm Konuralp" , "I am working to become a full stack developer")
         rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
             height="40" /> </a>
             
-<h3 align="left"> Tools </h3>
+<h4 align="left"> Tools </h4>
 <p align="left">
             <a href="https://www.microsoft.com/en-us/sql-server"
              target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
